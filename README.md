@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @seandaudet
 - 👀 I’m interested in AI.
-- 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on Deep Learning Python Projects
+- 🌱 I’m currently learning Deep Learning with fastai.
+- 💞️ I’m looking to collaborate on Deep Learning Python Projects.
 - 📫 How to reach me: seandaudet@yahoo.com
 
 <!---
